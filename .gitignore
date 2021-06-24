@@ -1,0 +1,8 @@
+*.exe
+Aliases/*.un~
+Aliases/*.bat~
+Aliases/cyfrowanka.bat
+Aliases/cat_alias.bat
+Aliases/lamp*
+Aliases/lights*
+Aliases/toggle.bat

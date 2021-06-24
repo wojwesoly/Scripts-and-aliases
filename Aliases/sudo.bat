@@ -1,0 +1,3 @@
+@echo off
+
+sudo.ahk
