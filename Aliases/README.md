@@ -5,7 +5,7 @@ My collection of .bat files that imitate aliases from Bash.
 Cds into the Aliases dir.
 
 ## cat.bat
-An alias for bat, an alternative to cat. (if you don't have it installed you can change it to the TYPE command).
+An alias for bat, an alternative to cat. (if you don't have it installed you can change it to the TYPE command)
 
 ## clear.bat
 An alias for cls, imitating the clear command on Linux.
@@ -47,10 +47,10 @@ Alias for powerpoint.bat.
 Cds into my project dir.
 
 ## push.bat
-Stages all the changes, commits them with the first argument, and pushes (without specifing the remote and branch, so you first need to do git push -u origin master)
+Stages all the changes, commits them with the first argument, and pushes. (it pushes without specifing the remote and branch, so you first need to do git push -u {remote} {branch})
 
 ## python3.bat
-Alias for python, imitating the Linux naming of python versions.
+Alias for python, imitating the naming of python versions on Linux.
 
 ## rm.bat
 Alias for the del command, imitating the rm command on Linux.
