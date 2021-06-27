@@ -47,7 +47,7 @@ Alias for powerpoint.bat.
 Cds into my project dir.
 
 ## push.bat
-Stages all the changes, commits them with the first argument, and pushes. (it pushes without specifing the remote and branch, so you first need to do git push -u {remote} {branch})
+Stages all the changes, commits them with the first argument as the commit message, and pushes. (it pushes without specifing the remote and branch, so you first need to do git push -u {remote} {branch})
 
 ## python3.bat
 Alias for python, imitating the naming of python versions on Linux.
